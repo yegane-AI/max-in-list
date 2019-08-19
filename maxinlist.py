@@ -6,4 +6,4 @@ for i in range(1,x+1):
     list.append(y)
 print("maximum is: ",max(list))
 
-input("Press Enter to exit ")
+input("Press Enter to exit! ")
